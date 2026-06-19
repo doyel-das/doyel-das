@@ -10,7 +10,7 @@ These projects were built to demonstrate how I think about designing operational
 
 ## Projects
 
-### 🏥 [Provider Outreach QA](https://github.com/doyeldas97/provider-outreach-qa)
+### 🏥 [Provider Outreach QA](https://github.com/doyel-das/provider-outreach-qa) · [Live demo →](https://doyel-das.github.io/provider-outreach-qa)
 AI-powered QA tool for support ticket responses at a mental healthcare platform. Scores tone, clarity, and accuracy. Flags safety concerns where a response fails to handle signs of patient distress. Audits routing decisions before responses reach patients, providers, or payors.
 
 ### 📋 [Provider Credentialing Monitor](https://github.com/doyel-das/provider-credentialing-monitor) · [Live demo →](https://doyel-das.github.io/provider-credentialing-monitor)
