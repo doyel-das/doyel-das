@@ -13,7 +13,8 @@ These projects were built to demonstrate how I think about designing operational
 ### 🏥 [Provider Outreach QA](https://github.com/doyeldas97/provider-outreach-qa)
 AI-powered QA tool for support ticket responses at a mental healthcare platform. Scores tone, clarity, and accuracy. Flags safety concerns where a response fails to handle signs of patient distress. Audits routing decisions before responses reach patients, providers, or payors.
 
-### 📋 [Provider Credentialing Monitor](https://github.com/doyeldas97/provider-credentialing-monitor)
+### 📋 [Provider Credentialing Monitor](https://github.com/doyel-das/provider-credentialing-monitor) · [Live demo →](https://doyel-das.github.io/provider-credentialing-monitor)
+
 Monitors credential expiration dates across a provider network. Generates urgency-calibrated outreach across four tiers. Runs automated verification checks on renewal submissions. Routes only genuinely complex cases — expired credentials, payor credentialing renewals, anomalous submissions — to a human.
 
 ### 💰 [Claims Pipeline Monitor](https://github.com/doyeldas97/claims-pipeline-monitor)
