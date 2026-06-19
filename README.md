@@ -17,7 +17,7 @@ AI-powered QA tool for support ticket responses at a mental healthcare platform.
 
 Monitors credential expiration dates across a provider network. Generates urgency-calibrated outreach across four tiers. Runs automated verification checks on renewal submissions. Routes only genuinely complex cases — expired credentials, payor credentialing renewals, anomalous submissions — to a human.
 
-### 💰 [Claims Pipeline Monitor](https://github.com/doyeldas97/claims-pipeline-monitor)
+### 💰 [Claims Pipeline Monitor](https://github.com/doyel-das/claims-pipeline-monitor) · [Live demo →](https://doyel-das.github.io/claims-pipeline-monitor)
 Tracks outstanding insurance claims and automates the follow-up layer. Generates escalating payor outreach calibrated to days outstanding. Classifies denial reason codes and routes each to the correct resolution path automatically. Surfaces high-dollar escalations and complex denials to a human billing team.
 
 ---
