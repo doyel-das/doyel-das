@@ -1,10 +1,10 @@
 # Doyel Das
 
-Healthcare AI & Operations | Building automation infrastructure for clinical and revenue cycle workflows
+Healthcare AI & Operations | Translating clinical domain expertise into analytical tools and operational systems
 
-I work at the intersection of AI deployment, clinical operations, and workflow automation — focused on the problems that matter most in mental healthcare: keeping providers credentialed, getting claims paid, and making sure AI-drafted responses to patients are safe before they go out.
+I work at the intersection of AI deployment, clinical operations, and customer success — focused on the problems that slow down care delivery and the workflows that can be rebuilt to solve them.
 
-These projects were built to demonstrate how I think about designing operational systems that scale without scaling human effort proportionally.
+These projects were built to demonstrate how I think about designing systems that scale without scaling human effort proportionally.
 
 ---
 
