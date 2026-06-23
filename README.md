@@ -2,7 +2,7 @@
 
 Healthcare AI & Operations | Translating clinical domain expertise into analytical tools and operational systems
 
-I work at the intersection of AI deployment, clinical operations, and customer success — focused on the problems that slow down care delivery and the workflows that can be rebuilt to solve them.
+I work at the intersection of AI deployment, clinical operations, and customer success, focused on the problems that slow down care delivery and the workflows that can be rebuilt to solve them.
 
 These projects were built to demonstrate how I think about designing systems that scale without scaling human effort proportionally.
 
