@@ -20,6 +20,10 @@ Monitors credential expiration dates across a provider network. Generates urgenc
 ### 💰 [Claims Pipeline Monitor](https://github.com/doyel-das/claims-pipeline-monitor) · [Live demo →](https://doyel-das.github.io/claims-pipeline-monitor)
 Tracks outstanding insurance claims and automates the follow-up layer. Generates escalating payor outreach calibrated to days outstanding. Classifies denial reason codes and routes each to the correct resolution path automatically. Surfaces high-dollar escalations and complex denials to a human billing team.
 
+### 📋 [Account Health Scoring Engine](https://github.com/doyel-das/account-health-engine) · [Live demo →](https://doyel-das.github.io/account-health-engine)
+
+Scores healthcare AI SaaS accounts 0–100 across 7 configurable weighted signals. Assigns risk tiers, surfaces churn override conditions, and generates rule-based intervention recommendations. Outputs terminal summary, CSV, SQLite portfolio queries, and a self-contained HTML report with trend charts and Claude-powered intervention email drafts.
+
 ---
 
 ## Background
