@@ -32,4 +32,10 @@ Clinical operations and AI deployment in regulated healthcare environments. Colu
 
 ---
 
-*All projects built with Python and the Anthropic API.*
+🏥 **Psychiatric Discharge Follow-Up Coordinator · [Live demo →](https://bunkerhill-workflow.vercel.app)**
+
+A 20-agent CareBricks workflow specification and prototype dashboard targeting HEDIS FUH compliance across inpatient psychiatric discharges. Stratifies patients by clinical and social risk, routes coordinator outreach with a mandatory human review gate, and tracks 7-day and 30-day follow-up rates against NCQA national benchmarks. Includes a Missed Escalation Audit that surfaces tier miscalibrations when patients readmit within 90 days.
+
+---
+
+*Projects built with Python, the Anthropic API, and HTML.*
