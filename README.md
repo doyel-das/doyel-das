@@ -24,7 +24,7 @@ Tracks outstanding insurance claims and automates the follow-up layer. Generates
 
 Scores healthcare AI SaaS accounts 0–100 across 7 configurable weighted signals. Assigns risk tiers, surfaces churn override conditions, and generates rule-based intervention recommendations. Outputs terminal summary, CSV, SQLite portfolio queries, and a self-contained HTML report with trend charts and Claude-powered intervention email drafts.
 
-🏥 **Psychiatric Discharge Follow-Up Coordinator · [Live demo →](https://bunkerhill-workflow.vercel.app)**
+### 🏥 [Psychiatric Discharge Follow-Up Coordinator](https://github.com/doyel-das/psychiatric-discharge-workflow) · [Live demo →](https://bunkerhill-workflow.vercel.app)
 
 A 20-agent CareBricks workflow specification and prototype dashboard targeting HEDIS FUH compliance across inpatient psychiatric discharges. Stratifies patients by clinical and social risk, routes coordinator outreach with a mandatory human review gate, and tracks 7-day and 30-day follow-up rates against NCQA national benchmarks. Includes a Missed Escalation Audit that surfaces tier miscalibrations when patients readmit within 90 days.
 
