@@ -4,7 +4,7 @@ Healthcare AI & Operations | Translating clinical domain expertise into analytic
 
 I work at the intersection of AI deployment, clinical operations, and customer success, focused on the problems that slow down care delivery and the workflows that can be rebuilt to solve them.
 
-These projects were built to demonstrate how I think about designing systems that scale without scaling human effort proportionally.
+These projects were built to demonstrate how I think about designing systems that scale without scaling human effort proportionally: what breaks at scale, where the human bottlenecks are, and how to design around them. Columbia MPH.
 
 ---
 
@@ -27,12 +27,6 @@ Scores healthcare AI SaaS accounts 0–100 across 7 configurable weighted signal
 🏥 **Psychiatric Discharge Follow-Up Coordinator · [Live demo →](https://bunkerhill-workflow.vercel.app)**
 
 A 20-agent CareBricks workflow specification and prototype dashboard targeting HEDIS FUH compliance across inpatient psychiatric discharges. Stratifies patients by clinical and social risk, routes coordinator outreach with a mandatory human review gate, and tracks 7-day and 30-day follow-up rates against NCQA national benchmarks. Includes a Missed Escalation Audit that surfaces tier miscalibrations when patients readmit within 90 days.
-
----
-
-## Background
-
-Clinical operations and AI deployment in regulated healthcare environments. Columbia MPH. I think about operational infrastructure the way an engineer thinks about systems: what breaks at scale, where the human bottlenecks are, and how to design around them.
 
 ---
 
